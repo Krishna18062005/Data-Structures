@@ -1,13 +1,18 @@
 /*spring is a java framework
+
+
 we take an opinionated view of spring platform,if you want it can be changed
-we can integrated any framework
+springboot we can integrated any framework
 jar java archive file zipped file
 war file contains web related servers it provides database too
 jsp java server pages
 spring features:
+ioc---> inversion of Controller --> it creates objects mautomatically
 pojo - its a class file its a encapsulated file plain old object,dependency
 object,dependency injection,rest Api
 class file private variables ,getter and setter methods
+wee add dependencies on xml file
+maven package la add pandra object than dependencies injection
 mvc --> model view controller model--> data structure view--> defines
 display,controller --> control logic
 mvc allows only java
